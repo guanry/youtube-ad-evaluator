@@ -2,3 +2,6 @@ google-api-python-client
 streamlit
 pandas
 python-dotenv
+opencv-python
+numpy
+yt-dlp
